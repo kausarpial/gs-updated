@@ -378,7 +378,7 @@ body {
 
 @media (max-width: 575px) {
   .insta-count .user-details h2 {
-    font-size: 30px;
+    font-size: 36px;
   }
 }
 
@@ -420,16 +420,6 @@ body {
 @media (max-width: 575px) {
   .checkform input {
     font-size: 12px;
-  }
-}
-
-.checkform button {
-  box-shadow: 0px 32px 44px 0px rgba(0, 0, 0, 0.1);
-}
-
-@media (max-width: 991px) {
-  .checkform button {
-    margin-top: 15px;
   }
 }
 
